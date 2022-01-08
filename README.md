@@ -37,7 +37,7 @@ Active States
 ### Links
 
 - Solution URL: [Github](https://github.com/xhocopuff/nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://xhocopuff.github.io/nft-preview-card-component](https://xhocopuff.github.io/nft-preview-card-component/)
 
 
 
